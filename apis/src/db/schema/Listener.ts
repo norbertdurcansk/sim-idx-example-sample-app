@@ -1,12 +1,11 @@
-import { pgEnum, pgTable as table } from "drizzle-orm/pg-core";
-import * as t from "drizzle-orm/pg-core";
-import { simDb, simTypes } from "sim-idx";
+import { pgTable as table } from "drizzle-orm/pg-core";
+import { db } from "sim-idx";
 
 export const poolCreated = table("pool_created", {
-  chainId: simDb.uint64('chain_id'),
-  caller: simDb.address('caller'),
-  pool: simDb.address('pool'),
-  token0: simDb.address('token0'),
-  token1: simDb.address('token1'),
-  fee: simDb.uint24('fee'),
+  chainId: db.uint64('chain_id'),
+  caller: db.address('caller'),
+  pool: db.address('pool'),
+  token0: db.address('token0'),
+  token1: db.address('token1'),
+  fee: db.uint24('fee'),
 })
