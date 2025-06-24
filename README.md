@@ -4,7 +4,7 @@
 
 This sample project indexes **Uniswap V3 Factory pool creation events** and serves as your starting point for building with Sim IDX.
 
-When you're ready to continue, the [Quickstart guide](https://sim-dune-docs-idx.mintlify.app/idx-quickstart#authentication) will walk you through authenticating and deploying your app.
+When you're ready to continue, the [Quickstart guide](https://sim.dune.com/idx) will walk you through authenticating and deploying your app.
 
 ## What You'll Edit
 
