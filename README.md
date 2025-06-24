@@ -24,9 +24,9 @@ The main files you'll work with are:
 │   └── UniswapV3Factory.json    # Example: Uniswap V3 Factory ABI
 ├── listeners/                   # Foundry project for listener contracts
 │   ├── src/
-│   │   └── Main.sol         # Main listener contract (Edit this)
+│   │   └── Main.sol             # Main listener contract (Edit this)
 │   └── test/
-│       └── Main.t.sol       # Unit tests for your listener
+│       └── Main.t.sol           # Unit tests for your listener
 ```
 
 ## Next Steps
