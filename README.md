@@ -33,7 +33,7 @@ The main files you'll work with are:
 
 Ready to start building? Check out the comprehensive guides:
 
-- **[Deploying Your App](https://sim-dune-docs-idx.mintlify.app/idx-quickstart#authentication)** - Deploy your app
-- **[Adding ABIs](https://sim-dune-docs-idx.mintlify.app/idx/idx/cli#sim-abi-add-<file-path>)** - How to add contract ABIs
-- **[Writing Listeners](https://sim-dune-docs-idx.mintlify.app/idx/listener)** - Define your indexing logic
-- **[CLI Reference](https://sim-dune-docs-idx.mintlify.app/idx/cli)** - All available commands
+- **[Deploying Your App](http://docs.sim.dune.com/idx/deployment)** - Deploy your app
+- **[Adding ABIs](https://docs.sim.dune.com/idx/cli#sim-abi)** - How to add contract ABIs
+- **[Writing Listeners](https://docs.sim.dune.com/idx/listener)** - Define your indexing logic
+- **[CLI Reference](https://docs.sim.dune.com/idx/cli)** - All available commands
