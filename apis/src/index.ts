@@ -15,7 +15,7 @@ app.get("/*", async (c) => {
       result: result,
     });
   } catch (e) {
-    console.error("Database operation failed:", e);
+    console.error("Database operation failed test:", e);
     return Response.json({ error: (e as Error).message }, { status: 500 });
   }
 });
