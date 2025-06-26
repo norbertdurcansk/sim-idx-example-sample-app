@@ -31,6 +31,9 @@ The main files you'll work with are:
 
 ## Next Steps
 
+
+tests
+
 Ready to start building? Check out the comprehensive guides:
 
 - **[Deploying Your App](http://docs.sim.dune.com/idx/deployment)** - Deploy your app
