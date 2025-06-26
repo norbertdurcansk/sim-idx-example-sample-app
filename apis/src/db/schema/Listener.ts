@@ -1,5 +1,5 @@
 import { pgTable as table } from "drizzle-orm/pg-core";
-import { db } from "sim-idx";
+import { db } from "@duneanalytics/sim-idx";
 
 export const poolCreated = table("pool_created", {
   chainId: db.uint64('chain_id'),
